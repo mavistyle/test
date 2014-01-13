@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Ver1"
+            echo "Ver2"
         ?>
     </body>
 </html>
